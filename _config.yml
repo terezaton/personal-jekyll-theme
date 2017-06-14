@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "http://www.rondoniaovivo.com/imagensEventos/18112010115258/por%20sol%20rondonia2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
